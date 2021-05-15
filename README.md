@@ -1,2 +1,2 @@
 # app-clima-js
-https://wonderful-noether-e57fbf.netlify.app
+https://happy-kowalevski-212a23.netlify.app/
